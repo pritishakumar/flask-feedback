@@ -5,3 +5,7 @@
 * create a database called "flask_feedback" -> `createdb flask_feedback`
 * run seed.py -> `python seed.py`
 * `flask run` and go to the given URL
+
+Default user that can be used for exploring the app is below:<br>
+Username: pk <br>
+Password: 123
